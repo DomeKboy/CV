@@ -1,0 +1,5 @@
+C:\Codes\proba\ChessEngine.exe
+C:\Codes\proba\ChessEngine.dll
+C:\Codes\proba\ChessEngine.deps.json
+C:\Codes\proba\ChessEngine.runtimeconfig.json
+C:\Codes\proba\ChessEngine.pdb

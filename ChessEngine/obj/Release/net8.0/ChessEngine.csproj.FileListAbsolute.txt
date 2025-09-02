@@ -1,0 +1,14 @@
+C:\Codes\szakdoga\ChessEngine\ChessEngine\bin\Release\net8.0\ChessEngine.exe
+C:\Codes\szakdoga\ChessEngine\ChessEngine\bin\Release\net8.0\ChessEngine.deps.json
+C:\Codes\szakdoga\ChessEngine\ChessEngine\bin\Release\net8.0\ChessEngine.runtimeconfig.json
+C:\Codes\szakdoga\ChessEngine\ChessEngine\bin\Release\net8.0\ChessEngine.dll
+C:\Codes\szakdoga\ChessEngine\ChessEngine\bin\Release\net8.0\ChessEngine.pdb
+C:\Codes\szakdoga\ChessEngine\ChessEngine\obj\Release\net8.0\ChessEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\szakdoga\ChessEngine\ChessEngine\obj\Release\net8.0\ChessEngine.AssemblyInfoInputs.cache
+C:\Codes\szakdoga\ChessEngine\ChessEngine\obj\Release\net8.0\ChessEngine.AssemblyInfo.cs
+C:\Codes\szakdoga\ChessEngine\ChessEngine\obj\Release\net8.0\ChessEngine.csproj.CoreCompileInputs.cache
+C:\Codes\szakdoga\ChessEngine\ChessEngine\obj\Release\net8.0\ChessEngine.dll
+C:\Codes\szakdoga\ChessEngine\ChessEngine\obj\Release\net8.0\refint\ChessEngine.dll
+C:\Codes\szakdoga\ChessEngine\ChessEngine\obj\Release\net8.0\ChessEngine.pdb
+C:\Codes\szakdoga\ChessEngine\ChessEngine\obj\Release\net8.0\ChessEngine.genruntimeconfig.cache
+C:\Codes\szakdoga\ChessEngine\ChessEngine\obj\Release\net8.0\ref\ChessEngine.dll
